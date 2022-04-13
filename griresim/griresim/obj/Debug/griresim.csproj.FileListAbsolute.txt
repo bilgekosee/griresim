@@ -1,0 +1,10 @@
+D:\goruntu_isleme\griresim\griresim\bin\Debug\griresim.exe.config
+D:\goruntu_isleme\griresim\griresim\bin\Debug\griresim.exe
+D:\goruntu_isleme\griresim\griresim\bin\Debug\griresim.pdb
+D:\goruntu_isleme\griresim\griresim\obj\Debug\griresim.csproj.AssemblyReference.cache
+D:\goruntu_isleme\griresim\griresim\obj\Debug\griresim.Form1.resources
+D:\goruntu_isleme\griresim\griresim\obj\Debug\griresim.Properties.Resources.resources
+D:\goruntu_isleme\griresim\griresim\obj\Debug\griresim.csproj.GenerateResource.cache
+D:\goruntu_isleme\griresim\griresim\obj\Debug\griresim.csproj.CoreCompileInputs.cache
+D:\goruntu_isleme\griresim\griresim\obj\Debug\griresim.exe
+D:\goruntu_isleme\griresim\griresim\obj\Debug\griresim.pdb
